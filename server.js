@@ -1,10 +1,9 @@
-const express = require('express');
-// const cors = require('cors');
-const fs = require('fs');
+import  express from 'express';
+import  fs from 'fs';
 const app = express();
 // const d = require('./chitkara.csv')
 
-const mongoose =  require('mongoose');
+import mongoose from 'mongoose';
 
 
 
